@@ -2,6 +2,6 @@ name: astrbot_plugin_show_tool_call
 display_name: 🛠️ 发送工具调用
 desc: 以合并转发消息的形式发送 LLM 工具名称、调用参数和执行结果。
 short_desc: 转发 LLM 的工具调用与执行结果。
-version: v1.0.0
+version: v1.2.0
 author: Felis Abyssalis
 repo: "https://github.com/EmilyCheoh/astrbot_plugin_show_tool_call"
